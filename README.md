@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
 My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://hubup.fr/" target="blank">Hubup</a>.
 
 ## 🔧 Technologies & Tools
@@ -10,7 +10,6 @@ My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living 
 <img align="left" alt="PWA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
-<img align="left" alt="Postman" width="40px" src="https://camo.githubusercontent.com/cfe0dd83317c9b523c7f3d8911ee61eb1e2fc869a64a8b6ae075c2fd6e5b17cd/68747470733a2f2f6173736574732e676574706f73746d616e2e636f6d2f636f6d6d6f6e2d73686172652f706f73746d616e2d6c6f676f2d686f72697a6f6e74616c2d333230783133322e706e67" />
 
 ## 💬 Connect with me
 
