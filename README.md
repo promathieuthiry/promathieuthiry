@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mathieu</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px">
 <h3 align="center">My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at Hubup.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promathieuthiry&label=Profile%20views&color=0e75b6&style=flat" alt="promathieuthiry" /> </p>
