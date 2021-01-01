@@ -22,7 +22,4 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="hhttps://twitter.com/mathieu_thiry" target="blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<a href="https://codepen.io/https://codepen.io/matmat92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/matmat92" height="30" width="40" /></a>
-</div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=promathieuthiry&label=Profile%20views&color=0e75b6&style=flat" alt="promathieuthiry" /> </p>
