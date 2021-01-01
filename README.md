@@ -2,6 +2,8 @@
 My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://hubup.fr/" target="blank">Hubup</a>.
 
 ## 🔧 Technologies & Tools
+These are some of the major technologies that I use or have worked on in the past:
+
 <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -13,19 +15,13 @@ My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living 
 <br/>
      
      
-## 💬 Connect with me
+## 💬  Let's Connect 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mathieu-thiry" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="hhttps://twitter.com/mathieu_thiry" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/matmat92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/matmat92" height="30" width="40" /></a>
-<a href="https://twitter.com/mathieu_thiry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mathieu_thiry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathieu-thiry/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mathieu-thiry/" height="30" width="40" /></a>
-</p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=promathieuthiry&show_icons=true&locale=en&layout=compact" alt="promathieuthiry" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=promathieuthiry&label=Profile%20views&color=0e75b6&style=flat" alt="promathieuthiry" /> </p>
