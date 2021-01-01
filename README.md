@@ -14,11 +14,11 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />  <br/>
 <br/>
      
-     
-## 💬  Let's Connect 
+***    
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathieu-thiry" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="hhttps://twitter.com/mathieu_thiry" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<em><p align="center">let's get in touch!</p></em>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathieu-thiry" target="blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="hhttps://twitter.com/mathieu_thiry" target="blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/matmat92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/matmat92" height="30" width="40" /></a>
