@@ -2,7 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
-My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://hubup.fr/" target="blank">Hubup</a>. You can find my portfolio at <a href="https://mathieuthiry.fr" target="_blank">mathieuthiry.fr</a>  as well as on <a href="https://codepen.io/matmat92" target="_blank">codepen</a>.   
+My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://api.video" target="blank">api.video</a>. You can find my portfolio at <a href="https://mathieuthiry.fr" target="_blank">mathieuthiry.fr</a>  as well as on <a href="https://codepen.io/matmat92" target="_blank">codepen</a>.   
 
 ## 🔧 Technologies & Tools
 These are some of the major technologies that I use or have worked on in the past:
