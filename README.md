@@ -2,7 +2,7 @@
 
 # Hello there! I'm Mathieu Thiry! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
 
-I'm a passionate **Front End Engineer** with a love for crafting beautiful and performant web applications. You can find my portfolio at [mathieuthiry.fr](https://mathieuthiry.fr) as well as on[codepen](https://codepen.io/matmat92).
+I'm a passionate **Front End Engineer** with a love for crafting beautiful and performant web applications. You can find my portfolio at [mathieuthiry.fr](https://mathieuthiry.fr) as well as on [codepen](https://codepen.io/matmat92).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promathieuthiry&label=Profile%20views&color=0e75b6&style=flat" alt="promathieuthiry" /> </p>
 
