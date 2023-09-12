@@ -1,10 +1,11 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/main/LinkedIn%20Banner%20-%20Mathieu%20Thiry.png" /> 
-
+<!-- <img align="left" alt="HTML" src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/main/LinkedIn%20Banner%20-%20Mathieu%20Thiry.png" /> -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
-My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://api.video" target="blank">api.video</a>. You can find my portfolio at <a href="https://mathieuthiry.fr" target="_blank">mathieuthiry.fr</a>  as well as on <a href="https://codepen.io/matmat92" target="_blank">codepen</a>.   
+
+My name is Mathieu THIRY and I'm a Front-End developer. I'm from France, living in Paris and currently working at <a href="https://api.video" target="blank">api.video</a>. You can find my portfolio at <a href="https://mathieuthiry.fr" target="_blank">mathieuthiry.fr</a> as well as on <a href="https://codepen.io/matmat92" target="_blank">codepen</a>.
 
 ## 🔧 Technologies & Tools
+
 These are some of the major technologies that I use or have worked on in the past:
 
 <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -20,9 +21,10 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />  <br/>
 <br/>
      
-***    
+***
 
 <em><p align="center">let's get in touch!</p></em>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mathieu-thiry/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/mathieu_thiry" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
